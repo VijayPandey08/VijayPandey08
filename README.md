@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijay Pandey</h1>
 <h3 align="center">Prefer repos over propose</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijaypandey08" alt="vijaypandey08" /></a> </p>
 
